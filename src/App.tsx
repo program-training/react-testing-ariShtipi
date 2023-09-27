@@ -1,10 +1,10 @@
 import "./App.css";
-import { Example } from "./components/Example/Example";
+import QRCode from "./components/QRCode/QRCode";
 
 function App() {
   return (
     <>
-      <Example />{" "}
+      <QRCode />
     </>
   );
 }
